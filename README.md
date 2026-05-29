@@ -10,6 +10,7 @@ The journal file in this repo contains more detailed step-by-step notes of the p
 
 ## Rocket Preview
 
+![Rocket Launch](asset/rocket-launch.jpeg)
 ![Rocket Build](asset/rocket1.png)
 
 ---
@@ -22,8 +23,9 @@ The following materials were used in the construction of this model rocket:
 2. C6-5 engine  
 3. Flame-resistant wadding paper  
 4. Parachute recovery system  
-5. Strings (shock cords) to attach the parachute  
-6. Hot glue and paper
+5. Strings (shock cords) to attach the parachute
+6. Paper straw
+7. Hot glue and paper
    
 ---
 
